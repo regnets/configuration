@@ -1,3 +1,6 @@
+10.0.0.57	landscape
+10.0.0.57	landscape.fritz.box
+
 10.0.0.81	emby
 10.0.0.81	emby.fritz.box
 
@@ -57,7 +60,6 @@
 10.0.0.254	fb-ratingen
 
 10.0.10.254	fb-duesseldorf
-10.0.20.254 fb-rhauderfehn
+10.0.20.254	fb-rhauderfehn
 
-10.0.20.254 openhab-rhauderfehn
-
+10.0.20.254	openhab-rhauderfehn
